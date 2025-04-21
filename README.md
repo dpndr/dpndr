@@ -24,7 +24,8 @@ Currently, I'm exploring Java and Data Structures & Algorithms (DSA) while expan
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/dpndr) *(add your link here if you want!)*
+- [LinkedIn](https://www.linkedin.com/in/dpndr)
+- [X](https://x.com/dpndr_05)
 
 ---
 
