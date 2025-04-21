@@ -1,0 +1,47 @@
+# Hi there, I'm Deependra Dhakad 👋
+
+I'm passionate about learning and building cool stuff with code!  
+Currently, I'm exploring Java and Data Structures & Algorithms (DSA) while expanding my skills in web development and AI/ML.
+
+### 🚀 About Me
+- 📚 Skilled in **Python** with libraries like **Pandas**, **NumPy**, **Pygame**, and **Flask**.
+- 🎨 Have a basic understanding of **HTML**, **CSS**, **C**, and **C++**.
+- ☕ Currently learning **Java** and mastering **DSA**.
+- 🌐 I enjoy working on web development projects using **Python frameworks**.
+- 🎯 My goal is to become a **Data Scientist** and **AI/ML Engineer**.
+
+### 🛠️ Technologies & Tools
+- Python, Java, C, C++
+- HTML5, CSS3
+- Git & GitHub
+- Flask, Pandas, NumPy, Pygame
+
+### 📈 GitHub Stats
+![Deependra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpndr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpndr&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dpndr) *(add your link here if you want!)*
+
+---
+
+> "Always learning, always building." 🚀
+
+
+<!--
+**dpndr/dpndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
